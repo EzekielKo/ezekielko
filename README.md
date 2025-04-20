@@ -53,7 +53,12 @@ I'm from New Zealand 🇳🇿, studying a double major in Computer Science 💻 
   <img src="https://nirzak-streak-stats.vercel.app/?user=ezekielko&theme=nightowl&hide_border=false" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekielko&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170px" />
 </p>
-<img src="https://raw.githubusercontent.com/ezekielko/ezekielko/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezekielko/ezekielko/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezekielko/ezekielko/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ezekielko/ezekielko/output/github-snake.svg" />
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ezekielko&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
