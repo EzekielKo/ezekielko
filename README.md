@@ -53,7 +53,6 @@ I'm from New Zealand 🇳🇿, studying a double major in Computer Science 💻 
 
   
 ## 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=ezekielko)
 <p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ezekielko&theme=nightowl&hide_border=false" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekielko&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170px" />
