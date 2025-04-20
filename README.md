@@ -1,7 +1,7 @@
 ## Hello 👋, my name is Ezekiel Ko
 
 <a href="https://www.linkedin.com/in/ezekielko/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 5px;" />
 </a>
 
 ## About Me
@@ -33,9 +33,9 @@ I'm from New Zealand 🇳🇿, studying a double major in Computer Science 💻 
 
 **Languages:** <br/>
 <div align="left">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo" style="border-radius: 5px;" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" style="border-radius: 5px;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -45,7 +45,12 @@ I'm from New Zealand 🇳🇿, studying a double major in Computer Science 💻 
 </div>
 
 **Learning:** <br/>
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+<a href="https://reactnative.dev">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" 
+       alt="React Native" 
+       style="border-radius: 5px;">
+</a>
+
   
 ## 📊 GitHub Stats:
 
