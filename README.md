@@ -1,4 +1,4 @@
-## Hello 👋, my name is Ezekiel Ko
+## Hello 👋, my name is Ezekiel
 
 <a href="https://www.linkedin.com/in/ezekielko/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" title="LinkedIn" />
