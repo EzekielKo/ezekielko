@@ -24,8 +24,6 @@ I'm from New Zealand 🇳🇿, studying a double major in Computer Science 💻 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" title="Next.js" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" title="Git" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="GitHub" />
@@ -46,9 +44,10 @@ I'm from New Zealand 🇳🇿, studying a double major in Computer Science 💻 
 
 **Learning:** <br/>
 <a href="https://reactnative.dev">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" 
-        style="border-radius: 5px;"
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="border-radius: 5px;"
        alt="React Native" title="React Native">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" title="Next.js" />
 </a>
 
   
