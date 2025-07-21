@@ -1,7 +1,11 @@
 ## Hello 👋, my name is Ezekiel
 
+<a href="https://ezekielko.com">
+  <img src="https://raw.githubusercontent.com/ezekielko/ezekielko/main/logo.webp" alt="My Website Logo" width="100" title="Visit my website"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ezekielko/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" title="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" title="LinkedIn"/>
 </a>
 
 ## About Me
