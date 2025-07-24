@@ -5,7 +5,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ezekielko/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" title="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" title="Visit my LinkedIn"/>
 </a>
 
 ## About Me
