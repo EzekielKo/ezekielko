@@ -9,7 +9,7 @@
 </a>
 
 ## About Me
-I'm from New Zealand 🇳🇿, studying a double major in Computer Science 💻 and Information & Technology Management 📊 at the University of Auckland. My aptitude for web development 🌐 allowed me to grow my skills with experience as a Full-Stack Web Developer using technologies like React, TypeScript (JavaScript), Tailwind CSS, Node.js, Express.js, and Firebase 🔥.
+I'm from New Zealand 🇳🇿, graduate of a double major in Computer Science 💻 and Information & Technology Management 📊 from the University of Auckland. My aptitude for web development 🌐 allowed me to grow my skills with experience as a Full-Stack Web Developer using technologies like React, TypeScript (JavaScript), Tailwind CSS, Node.js, Express.js, and Firebase 🔥.
 
 ## 💻 Tech Stack:
 **Web Dev:** <br/>
